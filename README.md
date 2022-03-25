@@ -76,8 +76,11 @@
     </a>
      <a href="https://numpy.org/" rel="notfollow">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40" style="max-width: 100%;">
-     </a>
-    
+    </a>
+    </a>
+     <a href="https://www.mathworks.com/products/matlab.html" rel="notfollow">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="numpy" width="40" height="40" style="max-width: 100%;">
+    </a>    
                                                                                                                                              
   </p>                                                                                                                                         
  
