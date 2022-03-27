@@ -5,7 +5,7 @@
 <h1 align="center" >I'm Kardelen Geçkin ✋</h1>
 
 <h4 align="center" dir="auto">
-  Applied Physicist | Data Analysis Enthusiast | Junior Front End Developer | Junior Graphic Designer
+   Data Analysis Enthusiast | Junior Front End Developer 
 </h4>
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/krgckn/" rel="nofollow">
@@ -26,7 +26,7 @@
     <a href="https://www.itu.edu.tr/en/homepage" rel="notfollow">
       <b>Istanbul Technical University</b>
     </a>.
-    I am <b>a fast learner</b> and <b>a curious</b> person. As a person who is obsessed with the idea of <b>self-improvement</b> and does not like <b>to bum around</b>, I am ready to take <b>my place</b> in this new world💪
+    I am <b>a fast learner</b> and <b>a curious</b> person. As a person who is obsessed with the idea of <b>self-improvement</b> and do not like <b>to bum around</b>, I am ready to take my place in this new world💪
   </em>
  </p>
  
