@@ -35,11 +35,10 @@
  </p>
  <p dir="auto">
   <em>
-    ✔ Pronouns: She/Her
     <br>
     ✔ I'm currently developing myself to be a software developer
     <br>
-    ✔ I’m currently designing posters for @<b>itufmk</b> & @<b>itusavtek</b>
+    ✔ I’m currently designing posters as a grafic designer for @<b>itufmk</b> & @<b>itusavtek</b>
     <br>
     ✔ I'm interested in <b>Black Holes</b>
   </em> 
