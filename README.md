@@ -1,49 +1,37 @@
-<p align="center">
-  <img src="https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" />
-</p>
-<hr> </hr>
+
+<div>
 <h1 align="center" >I'm Kardelen Geçkin ✋</h1>
 
 <h4 align="center" dir="auto">
-   Data Analysis Enthusiast | Junior Front End Developer 
+   Data Analysis Enthusiast | Junior Front End Web Developer 
 </h4>
+</div>
+<div>
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/krgckn/" rel="nofollow">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="30" weight="40" style="max-width: 100%;"></a>
   <a href="mailto: kardelengeckin@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="30" width="30" style="max-width: 100%;"></a>
 </p>
-
+</div>
+<div>
 <p align="center" dir="auto"> 
   <em>
-    Hi again 🖖, 
-    I am studying 
+    Hello 🖖, 
+    I'm an
     <a href="https://fizik.itu.edu.tr/en/home" rel="notfollow">
       <b> Applied Physics/Physics Engineering </b>
     </a>
-    as a
-    <b>second year</b> 
     student at
     <a href="https://www.itu.edu.tr/en/homepage" rel="notfollow">
-      <b>Istanbul Technical University</b>
-    </a>.
-    I am <b>a fast learner</b> and <b>a curious</b> person. As a person who is obsessed with the idea of <b>self-improvement</b> and do not like <b>to bum around</b>, I am ready to take my place in this new world💪
+      <b>Istanbul Technical University</b>. 
+    </a>
   </em>
  </p>
- 
- <p dir="auto">
-  <em>Talking about Personal Things...</em>
+ <p align="center" dir="auto">
+ I'm interested in <b>Machine Learning</b> and <b>Front End Web Development</b>.
  </p>
- <p dir="auto">
-  <em>
-    <br>
-    ✔ I'm currently developing myself to be a software developer
-    <br>
-    ✔ I’m currently designing posters as a grafic designer for @<b>itufmk</b> & @<b>itusavtek</b>
-    <br>
-    ✔ I'm interested in <b>Black Holes</b>
-  </em> 
- </p>
- 
+ </div>
+ <div>
  <h3> Technologies and Tools</h3>
  <p align="left" dir="auto"> 
     <a href="https://www.adobe.com/tr/products/photoshop.html" rel="notfollow">
@@ -83,3 +71,4 @@
                                                                                                                                              
   </p>                                                                                                                                         
  
+</div>
