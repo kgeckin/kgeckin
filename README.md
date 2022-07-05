@@ -3,7 +3,7 @@
 <h1 align="center" >I'm Kardelen Geçkin ✋</h1>
 
 <h4 align="center" dir="auto">
-   Data Analysis Enthusiast | Junior Front End Web Developer 
+   Data Analysis Enthusiast 
 </h4>
 </div>
 <div>
