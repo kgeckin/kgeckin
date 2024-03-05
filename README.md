@@ -27,26 +27,14 @@
   </em>
  </p>
  <p align="center" dir="auto">
- I'm interested in <b>Machine Learning</b> and <b>Front End Web Development</b>.
+ I'm interested in <b>Machine Learning</b> and <b>Cyber Security</b>.
  </p>
  </div>
  <div>
  <h3> Technologies and Tools</h3>
  <p align="left" dir="auto"> 
-    <a href="https://www.adobe.com/tr/products/photoshop.html" rel="notfollow">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.adobe.com/tr/products/illustrator.html" rel="notfollow">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40" style="max-width: 100%;">
-    </a>
     <a href="https://www.python.org/" rel="notfollow">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.w3schools.com/html/" rel="notfollow">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" alt="html" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" rel="notfollow">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="49" style="max-width: 100%;">
     </a>
     <a href="https://fortran-lang.org/" rel="notfollow">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="fortran" width="40" height="40" style="max-width: 100%;">
