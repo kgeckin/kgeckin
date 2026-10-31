@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
+<title id="title">An integrated infrastructure engineering lifecycle</title>
+<desc id="desc">Requirements lead to low-level design, integration, validation and operations. Compute and virtualization, network connectivity, storage and protection, and security and resilience are connected in the design.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101319"/><stop offset="1" stop-color="#17191E"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#A98D66"/><stop offset=".5" stop-color="#E6CFA3"/><stop offset="1" stop-color="#B69B75"/></linearGradient>
+<style>
+.key{font:600 12px 'Segoe UI',Arial,sans-serif;letter-spacing:2.3px;fill:#AFAA9F}
+.title{font:600 21px 'Segoe UI',Arial,sans-serif;fill:#EEE9E1}
+.flow{font:600 17px 'Segoe UI',Arial,sans-serif;fill:#F2EDE5}
+.layer{font:550 18px 'Segoe UI',Arial,sans-serif;fill:#DDDBD5}
+.idx{font:600 11px 'Segoe UI',Arial,sans-serif;letter-spacing:1.5px;fill:#D4B989}
+.note{font:500 13px 'Segoe UI',Arial,sans-serif;fill:#AFABA5}
+</style>
+</defs>
+<rect width="1200" height="366" rx="14" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="364" rx="13" fill="none" stroke="#AD9D82" stroke-opacity=".33"/>
+<path d="M28 59H1172M28 328H1172" stroke="#B9B09E" stroke-opacity=".24"/>
+<text x="29" y="37" class="key">ARCHITECTURE IS A SERIES OF CONNECTED DECISIONS</text>
+<text x="1170" y="37" text-anchor="end" class="key">DESIGN / DELIVERY / OPERATIONS</text>
+<g>
+<rect x="29" y="85" width="197" height="66" rx="7" fill="#1D2228" stroke="#BBA783" stroke-opacity=".47"/>
+<rect x="261" y="85" width="197" height="66" rx="7" fill="#1D2228" stroke="#BBA783" stroke-opacity=".47"/>
+<rect x="493" y="85" width="197" height="66" rx="7" fill="#1D2228" stroke="#BBA783" stroke-opacity=".47"/>
+<rect x="725" y="85" width="197" height="66" rx="7" fill="#1D2228" stroke="#BBA783" stroke-opacity=".47"/>
+<rect x="957" y="85" width="214" height="66" rx="7" fill="#1D2228" stroke="#BBA783" stroke-opacity=".47"/>
+<path d="M228 117H258M460 117H490M692 117H722M924 117H954" stroke="url(#gold)" stroke-width="2"/>
+<path d="M249 111L258 117L249 123M481 111L490 117L481 123M713 111L722 117L713 123M945 111L954 117L945 123" stroke="#D9C196" fill="none" stroke-width="2"/>
+<text x="46" y="109" class="idx">01</text><text x="46" y="135" class="flow">Requirements</text>
+<text x="278" y="109" class="idx">02</text><text x="278" y="135" class="flow">Low-level design</text>
+<text x="510" y="109" class="idx">03</text><text x="510" y="135" class="flow">Integration</text>
+<text x="742" y="109" class="idx">04</text><text x="742" y="135" class="flow">Validation</text>
+<text x="974" y="109" class="idx">05</text><text x="974" y="135" class="flow">Operations</text>
+</g>
+<path d="M600 151V191M156 191H1044M156 191V208M452 191V208M748 191V208M1044 191V208" stroke="#C7B28D" stroke-opacity=".52" fill="none" stroke-width="1.5"/>
+<g>
+<rect x="29" y="208" width="268" height="82" rx="8" fill="#141B22" stroke="#848D91" stroke-opacity=".4"/>
+<rect x="322" y="208" width="268" height="82" rx="8" fill="#141B22" stroke="#848D91" stroke-opacity=".4"/>
+<rect x="615" y="208" width="268" height="82" rx="8" fill="#141B22" stroke="#848D91" stroke-opacity=".4"/>
+<rect x="908" y="208" width="263" height="82" rx="8" fill="#141B22" stroke="#848D91" stroke-opacity=".4"/>
+<path d="M43 225H81M336 225H374M629 225H667M922 225H960" stroke="url(#gold)" stroke-width="2"/>
+<text x="44" y="258" class="layer">Compute &amp; virtualization</text>
+<text x="337" y="258" class="layer">Network &amp; connectivity</text>
+<text x="630" y="258" class="layer">Storage &amp; protection</text>
+<text x="923" y="258" class="layer">Security &amp; resilience</text>
+</g>
+<text x="29" y="344" class="note">Constraints, dependencies, failure domains and tradeoffs connect every layer.</text>
+<text x="1170" y="344" text-anchor="end" class="note">Systems thinking in practice</text>
+</svg>
