@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+<title id="title">Kardelen Geçkin | Signature</title>
+<desc id="desc">An understated editorial closing signature: Curiosity, made practical.</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#AF9364"/><stop offset=".6" stop-color="#E2C99C"/><stop offset="1" stop-color="#9E845F"/></linearGradient><style>.initials{font:600 43px Georgia,'Times New Roman',serif;fill:#E8D9BA}.copy{font:500 16px 'Segoe UI',Arial,sans-serif;letter-spacing:2.1px;fill:#D7D4CD}.tiny{font:500 11px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#A6A7AC}</style></defs>
+<rect x="1" y="1" width="1198" height="130" rx="12" fill="#101318" stroke="#AFA38E" stroke-opacity=".31"/>
+<path d="M34 24H1166M34 108H1166" stroke="#C1B7A3" stroke-opacity=".16"/>
+<text x="46" y="83" class="initials">KG.</text>
+<path d="M150 45V91" stroke="url(#g)" stroke-opacity=".58"/>
+<text x="181" y="61" class="copy">CURIOSITY, MADE PRACTICAL.</text>
+<text x="182" y="86" class="tiny">ENGINEERING · ANALYSIS · EXPLORATION</text>
+<circle cx="1111" cy="67" r="23" fill="none" stroke="#CBB58C" stroke-opacity=".45"/>
+<path d="M1099 67H1123M1111 55V79" stroke="#E1C798" stroke-opacity=".76"/>
+</svg>
