@@ -35,7 +35,7 @@ def main() -> int:
 
     svg_files = sorted((ROOT / "assets").glob("*.svg"))
     if len(svg_files) < 3:
-        errors.append("Expected at least the hero, telemetry and signature SVG assets.")
+        errors.append("Expected at least three profile SVG assets.")
 
     for path in svg_files:
         try:
