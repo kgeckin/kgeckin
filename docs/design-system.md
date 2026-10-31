@@ -36,8 +36,8 @@ rules and a single warm accent take priority over glow effects or visual noise.
 ## Validation
 
 Run `python scripts/validate_profile.py` before proposing a change.
-The GitHub Actions workflow checks SVG XML integrity, accessibility labels,
-and local image references on push and pull requests.
+Automated CI can be enabled after GitHub Actions runners are available for the repository.
+The validator checks SVG XML integrity, accessibility labels and local image references.
 
 ## GitHub rendering
 
