@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="218" viewBox="0 0 1200 218" role="img" aria-labelledby="title desc">
+<title id="title">Falcon 9 Analysis</title><desc id="desc">DATA · MODELING. From raw data to evidence and prediction. Select the image to open the public project repository.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11151B"/><stop offset="1" stop-color="#1C2027"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1"><stop stop-color="#AD9165"/><stop offset=".5" stop-color="#F0D8AB"/><stop offset="1" stop-color="#AD9165"/></linearGradient>
+<style>.index{font:600 15px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#D3BD98}.label{font:600 14px 'Segoe UI',Arial,sans-serif;letter-spacing:2.8px;fill:#B6B1A9}.headline{font:730 51px 'Segoe UI',Arial,sans-serif;letter-spacing:.4px;fill:#F6F2EA}.desc{font:400 20px 'Segoe UI',Arial,sans-serif;fill:#D2CDC4}.cta{font:600 14px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#E0C59B}</style></defs>
+<rect x="1" y="1" width="1198" height="216" rx="13" fill="url(#bg)" stroke="#9E907A" stroke-opacity=".4"/>
+<rect x="1" y="1" width="5" height="216" rx="2.5" fill="url(#accent)"/>
+<text x="35" y="36" class="index">03</text><text x="85" y="36" class="label">DATA · MODELING</text>
+<text x="35" y="106" class="headline">Falcon 9 Analysis</text>
+<text x="35" y="143" class="desc">From raw data to evidence and prediction</text>
+<path d="M35 168H680" stroke="#AFA28B" stroke-opacity=".24"/>
+<text x="35" y="195" class="cta">EXPLORE PROJECT  ↗</text>
+<path d="M793 18V200" stroke="#BCA88A" stroke-opacity=".19"/>
+
+<g transform="translate(905 24)" fill="none" stroke="#D7C09A" stroke-opacity=".63">
+<path d="M11 162Q92 170 143 107T254 27" stroke-width="2.2"/>
+<path d="M11 162L59 151L109 127L159 83L206 52L254 27" stroke-dasharray="3 9" stroke-width="1.2"/>
+<path d="M11 171H266M11 171V16" stroke-width="1" stroke-opacity=".3"/>
+<circle cx="11" cy="162" r="5" fill="#E3CDA4"/><circle cx="109" cy="127" r="5" fill="#E3CDA4"/><circle cx="206" cy="52" r="5" fill="#E3CDA4"/><circle cx="254" cy="27" r="7" fill="#E3CDA4"/>
+<circle cx="143" cy="107" r="73" stroke-dasharray="3 10" stroke-opacity=".2"/>
+</g>
+</svg>
