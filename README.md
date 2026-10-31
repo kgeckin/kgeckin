@@ -1,193 +1,146 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Kardelen Geçkin | Engineering Systems" />
+<img src="./assets/hero.svg" width="100%" alt="Kardelen Geçkin | Premium minimal engineering portfolio" />
 
-<br/>
+<br />
 
-<img src="./assets/telemetry.svg" width="100%" alt="Engineering mission status" />
+<img src="./assets/telemetry.svg" width="100%" alt="Enterprise storage, physics engineering, Python and Linux, security and AI" />
 
-<br/><br/>
+<br />
 
-<a href="https://github.com/kgeckin?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00C9DF?style=for-the-badge&logo=github&logoColor=071527&labelColor=0B1426" alt="Explore projects"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/krgckn/"><img src="https://img.shields.io/badge/LINKEDIN-8A76FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1426" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://kgeckin.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-EB70C7?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B1426" alt="Portfolio website"/></a>
+<p>
+<a href="https://github.com/kgeckin?tab=repositories">PROJECTS</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/krgckn/">LINKEDIN</a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://kgeckin.github.io/">PORTFOLIO</a>
+</p>
 
 </div>
 
-<br/>
+<br />
 
-### `> whoami`
+## 01 / Introduction
 
-```text
-$ ./mission-control --identity
+### Thoughtful engineering for complex systems.
 
-  NAME        Kardelen Geçkin
-  DISCIPLINE  Physics Engineering × Enterprise Technology
-  FOCUS       Storage Infrastructure · Cybersecurity · Automation · Applied AI
-  APPROACH    Understand deeply. Design deliberately. Build reliably.
-  LOCATION    Istanbul, Türkiye
+I am an **IT Storage Engineer** and **Physics Engineering student** with experience spanning enterprise infrastructure, cybersecurity, and practical software development.
 
-  STATUS      Exploring the intersection of systems and intelligence.
-```
+I am interested in how systems are designed, connected, secured, and operated. My projects bring together **systems thinking, Python automation, data analysis, and applied AI** to solve clearly defined technical problems.
 
-I work at the intersection of **enterprise infrastructure, security, and software engineering**, with a background in **physics engineering** and hands-on work across IT systems. I enjoy turning technical complexity into practical tools, reliable workflows, and understandable architectures.
+> Understand the system. Question the assumptions. Build with intention. Verify the result.
 
-Currently growing my expertise in **enterprise storage, Linux, infrastructure automation, cybersecurity, and applied artificial intelligence**.
+<br />
 
-<br/>
-
-### `// Core domains`
+## 02 / Practice areas
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### 🗄️ Infrastructure & Storage
-Enterprise storage systems, block/file/object concepts, SAN, data center architectures, system integration, and infrastructure design.
-
-**Exploring:** Storage automation · FC SAN · iSCSI · monitoring · resilience
-
+  <h3>Infrastructure &amp; Storage</h3>
+  <p>Enterprise storage delivery, data center architecture, SAN connectivity, block and file storage, and technical design.</p>
+  <sub>STORAGE · SAN · SYSTEM INTEGRATION</sub>
 </td>
 <td width="50%" valign="top">
-
-#### 🛡️ Cybersecurity
-Security awareness engineering, secure application patterns, identity concepts, log analysis, and security automation.
-
-**Exploring:** Detection engineering · threat analysis · secure systems
-
+  <h3>Security Engineering</h3>
+  <p>Security awareness applications, secure development practices, access concepts, and defensive analysis.</p>
+  <sub>CYBERSECURITY · AWARENESS · ANALYSIS</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### 🐧 Linux & Automation
-Python-based tooling, scripting, system observability, data processing, and operational workflows.
-
-**Exploring:** Bash · Python · Linux administration · DevOps workflows
-
+  <h3>Linux &amp; Automation</h3>
+  <p>Python tools, shell workflows, infrastructure operations, reporting, and repeatable system tasks.</p>
+  <sub>PYTHON · LINUX · AUTOMATION</sub>
 </td>
 <td width="50%" valign="top">
-
-#### 🧠 AI & Data Science
-Machine learning, natural language processing, practical AI applications, and statistics-driven analysis.
-
-**Exploring:** LLM applications · ML evaluation · data visualization · AI for operations
-
+  <h3>Applied AI &amp; Data</h3>
+  <p>Machine learning, natural language processing, statistical modeling, data visualization, and AI-assisted workflows.</p>
+  <sub>ML · NLP · DATA SCIENCE</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
 
-### `// Selected builds`
+## 03 / Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**01 / [LinguaX](https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone)**
-
-AI-assisted video transcription, translation, and subtitle generation.
-
-`Python` `Streamlit` `Whisper` `NLP`
-
-[Explore source →](https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone)
-
+  <sub>01 / APPLIED AI</sub>
+  <h3><a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">LinguaX</a></h3>
+  <p>A video transcription and translation prototype with subtitle export, built around speech recognition and language models.</p>
+  <p><code>Python</code> <code>Streamlit</code> <code>Whisper</code> <code>FFmpeg</code></p>
+  <a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">Explore project ↗</a>
 </td>
 <td width="50%" valign="top">
-
-**02 / [Falcon 9 Landing Prediction](https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone)**
-
-Space launch data analysis, interactive visualizations, and predictive modeling.
-
-`Python` `SQL` `Scikit-learn` `Plotly`
-
-[Explore source →](https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone)
-
+  <sub>02 / WEB APPLICATIONS</sub>
+  <h3><a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">Inventory &amp; User Management</a></h3>
+  <p>A Flask-based inventory and user management portal featuring roles, admin workflows, and dashboard views.</p>
+  <p><code>Python</code> <code>Flask</code> <code>HTML</code> <code>CSS</code></p>
+  <a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">Explore project ↗</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**03 / [2048: Two Implementations](https://github.com/kgeckin/game2048)**
-
-A classic puzzle implemented with both Flask and browser-native JavaScript.
-
-`Flask` `JavaScript` `HTML` `CSS`
-
-[Explore source →](https://github.com/kgeckin/game2048)
-
+  <sub>03 / DATA SCIENCE</sub>
+  <h3><a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">Falcon 9 Landing Prediction</a></h3>
+  <p>An end-to-end learning project on space launch data, from collection and exploration to visualization and predictive modeling.</p>
+  <p><code>Python</code> <code>SQL</code> <code>Scikit-learn</code> <code>Plotly</code></p>
+  <a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">Explore project ↗</a>
 </td>
 <td width="50%" valign="top">
-
-**04 / [Inventory & User Management Portal](https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW)**
-
-A web application for asset tracking, user roles, dashboard reporting, and administration.
-
-`Python` `Flask` `Web` `Access Control`
-
-[Explore source →](https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW)
-
+  <sub>04 / INTERACTIVE SOFTWARE</sub>
+  <h3><a href="https://github.com/kgeckin/game2048">2048 · Two Implementations</a></h3>
+  <p>The familiar puzzle explored through a Python Flask application and a separate browser-native JavaScript version.</p>
+  <p><code>Flask</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+  <a href="https://github.com/kgeckin/game2048">Explore project ↗</a>
 </td>
 </tr>
 </table>
 
-> **More than public code:** Some of my enterprise and security engineering work is kept private to respect confidentiality and intellectual property obligations. Public repositories contain projects and materials appropriate for sharing.
+<sub>Some enterprise and security projects remain private to respect organizational confidentiality and intellectual property. Public repositories are a selected portfolio, not a complete work history.</sub>
 
-<br/>
+<br /><br />
 
-### `// Toolchain`
+## 04 / Tools & methods
 
-<div align="center">
+**Programming & development**
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,flask,html,css,js,sqlite,mysql,docker&perline=13&theme=dark" alt="Selected development tools and technologies" />
+<code>Python</code> &nbsp; <code>Bash</code> &nbsp; <code>SQL</code> &nbsp; <code>Flask</code> &nbsp; <code>Git</code> &nbsp; <code>HTML / CSS / JavaScript</code>
 
-<br/><br/>
+**Data & applied AI**
 
-**Engineering interests**
+<code>Pandas</code> &nbsp; <code>NumPy</code> &nbsp; <code>Scikit-learn</code> &nbsp; <code>Streamlit</code> &nbsp; <code>NLP</code>
 
-`Enterprise Storage` &nbsp; `System Integration` &nbsp; `Infrastructure Automation` &nbsp; `Network Fundamentals` &nbsp; `Security Engineering` &nbsp; `Machine Learning`
+**Systems & infrastructure**
 
-</div>
+<code>Linux</code> &nbsp; <code>Enterprise Storage</code> &nbsp; <code>SAN</code> &nbsp; <code>iSCSI</code> &nbsp; <code>System Integration</code>
 
-<br/>
+<br />
 
-### `// GitHub telemetry`
+## 05 / Exploring next
 
-<div align="center">
+| Direction | What I want to build |
+| :--- | :--- |
+| **Storage observability** | Tools for capacity, health, and performance analysis using synthetic or appropriately authorized data |
+| **Linux operations** | Reusable diagnostics, automation, and system validation workflows |
+| **Security engineering** | Defensive log analysis, detection logic, and secure application patterns |
+| **Applied AI for infrastructure** | Document intelligence and anomaly analysis for technical operations |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kgeckin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1021&title_color=63E8EF&text_color=C6D6F3&icon_color=A78BFA" alt="GitHub public statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgeckin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1021&title_color=63E8EF&text_color=C6D6F3" alt="Languages across public repositories"/>
+These are development interests, not claims of completed or production-deployed products.
 
-<sub>Public repository statistics are automated indicators, not comprehensive measures of engineering experience.</sub>
+<br />
 
-</div>
+## 06 / Connect
 
-<br/>
-
-### `// Next frontiers`
-
-```text
-[infrastructure]  Storage monitoring and capacity intelligence
-[linux]           Reliable administration and automation tooling
-[security]        Detection engineering and secure development
-[applied-ai]      Knowledge systems and operational anomaly detection
-```
-
-These are areas of exploration and future project development, not claims of already completed products.
-
-<br/>
+<a href="https://github.com/kgeckin">GitHub</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/krgckn/">LinkedIn</a> &nbsp; · &nbsp; <a href="https://kgeckin.github.io/">Portfolio</a>
 
 <div align="center">
 
-**Complex systems. Clear thinking. Better engineering.**
+<br />
 
-<sub>Made with curiosity · Built to evolve</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kgeckin&style=flat-square&color=5de4ed&label=PROFILE+VISITS" alt="Profile view counter" />
+<img src="./assets/signature.svg" width="100%" alt="KG. Curiosity, made practical. Engineering, analysis and exploration." />
 
 </div>
