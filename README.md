@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="./assets/telemetry.svg" width="100%" alt="Enterprise storage delivery, systems integration and infrastructure architecture direction" />
+<img src="./assets/telemetry.svg" width="100%" alt="Infrastructure delivery, low level design and integration, architecture direction" />
 
 <br />
 
@@ -22,48 +22,46 @@
 
 ### Systems make sense when their connections do.
 
-I work in **infrastructure delivery and system integration**, currently specializing in enterprise storage at **Huawei Türkiye**. My work brings me close to the details that make data center infrastructure function: physical deployment, logical design, connectivity, configuration, and validation.
+Infrastructure engineering happens at the boundaries between systems. A storage platform depends on its hosts, network paths, virtualization layer, protection strategy, and operational requirements. The engineering is in making those dependencies work together.
 
-I have a background in **Physics Engineering**, and I approach technical problems by understanding their constraints, dependencies, and behavior as a whole.
+At **Huawei Türkiye**, my current role is **IT Storage Engineer**, working in enterprise infrastructure delivery and system integration. This includes turning requirements and equipment lists into **Low Level Designs (LLD)**, planning rack placement and connectivity, preparing FC SAN and Ethernet integration, and supporting storage commissioning and validation in data center environments. My work spans storage and data protection platforms, including OceanStor Dorado, Pacific, and OceanProtect.
 
-My direction is toward **infrastructure and cloud architecture**: designing environments where compute, virtualization, networking, storage, security, and operations fit together with clear tradeoffs.
+With **Physics Engineering** as my academic foundation, I approach infrastructure through constraints, failure modes, performance, and evidence. I am building toward a broader **infrastructure and cloud architecture** perspective, grounded in delivery experience rather than titles.
 
 <br />
 
-## 02 / From requirements to working systems
+## 02 / How infrastructure comes together
 
 <table>
 <tr>
 <td width="50%" valign="top">
   <h3>Design &amp; planning</h3>
-  <p>Translating requirements into low-level designs, including rack layouts, power and connectivity plans, port mappings, IP and VLAN considerations, and storage-to-host integration.</p>
+  <p>Turning requirements into Low Level Designs (LLD): rack and power plans, controller and host port mappings, addressing, VLANs, FC zoning, and connection paths.</p>
 </td>
 <td width="50%" valign="top">
   <h3>Delivery &amp; integration</h3>
-  <p>Working across data center deployments, enterprise storage commissioning, SAN and Ethernet connectivity, host integration, and the surrounding network and virtualization environment.</p>
+  <p>Integrating storage with physical and virtualized hosts, SAN fabrics, Ethernet networks, and the wider data center environment, then supporting commissioning and service handover.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <h3>Validation &amp; resilience</h3>
-  <p>Understanding service dependencies, redundancy, capacity, performance, migration requirements, and operational risks before a solution can be considered ready.</p>
+  <p>Checking the intended design against real connectivity, redundancy, capacity, service continuity, and recovery requirements before a deployment is considered ready.</p>
 </td>
 <td width="50%" valign="top">
   <h3>Automation &amp; analysis</h3>
-  <p>Using scripting, data analysis, and software tools to make infrastructure work more repeatable, observable, and easier to reason about.</p>
+  <p>Building scripts and practical tools that reduce repetitive tasks, clarify technical data, and make system behavior easier to inspect and explain.</p>
 </td>
 </tr>
 </table>
 
-<sub>Current role: IT Storage Engineer. The broader architecture focus describes my professional development direction, not a current architect title.</sub>
+<sub>Current role: IT Storage Engineer · Practice: Infrastructure delivery and system integration · Direction: Infrastructure architecture</sub>
 
 <br />
 
 ## 03 / Thinking in systems
 
-An infrastructure design is a set of connected decisions. A storage choice affects host connectivity and network paths. Network design affects failure domains. Virtualization and workload behavior affect performance and availability. Recovery objectives shape protection and operational requirements.
-
-That is the kind of engineering I want my work to demonstrate.
+Capacity, connectivity, workload placement, failure domains, and recovery targets influence one another. A useful design makes these dependencies visible, tests its assumptions, and remains operable after deployment.
 
 <div align="center">
 
@@ -113,27 +111,17 @@ That is the kind of engineering I want my work to demonstrate.
 
 <br />
 
-## 05 / Engineering foundation
+## 05 / Working knowledge
 
-Rather than treating technologies as separate destinations, I study how they interact inside an operating environment.
-
-**Infrastructure** &nbsp; Compute · Virtualization · Storage · SAN · Networking · Data center integration
-
-**Systems** &nbsp; Linux · Administration · Troubleshooting · Automation · Monitoring
-
-**Engineering tools** &nbsp; Python · Bash · SQL · Git · Flask · Data analysis
-
-**Cross-cutting disciplines** &nbsp; Security principles · Availability · Disaster recovery · Applied AI
+I use **Python, Bash, SQL and Linux** for practical engineering work, alongside concepts from **virtualization, networking, SAN, storage, security, availability and recovery**. Software development and applied AI are useful tools within that work, not separate identities I need to advertise.
 
 <br />
 
-## 06 / What I am building toward
+## 06 / Design questions I am exploring
 
-My next projects will explore the decisions behind infrastructure design: how to connect and validate systems, observe their behavior, automate operational tasks and reason about recovery.
+How should infrastructure be connected, monitored, protected, automated and recovered? What changes when a workload moves from an on premises environment to a hybrid or cloud architecture? How can design documents and validation checks make those decisions reproducible?
 
-I am particularly interested in **hybrid infrastructure, cloud platforms, network architecture, infrastructure as code and architecture documentation**.
-
-These are learning and development directions, not claims of completed products or professional certifications.
+These questions guide my future lab work in **virtualization, Linux administration, networking, cloud infrastructure, automation and architectural documentation**.
 
 <br />
 
