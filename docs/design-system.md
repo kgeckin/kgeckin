@@ -1,47 +1,57 @@
-# Profile design system
+# Profile visual language
 
 ## Direction
 
-Premium Minimal is a calm, editorial expression of an infrastructure engineering portfolio and a developing architectural perspective.
-The design is intentionally restrained: typography, generous spacing, hairline
-rules and a single warm accent take priority over glow effects or visual noise.
+An interactive editorial portfolio, not a technical résumé.
 
-## Palette
+The first view needs only three things:
+1. A clear personal identity and current work.
+2. Three actual, clickable public projects.
+3. An invitation to explore optional context.
 
-| Token | Value | Usage |
-| --- | --- | --- |
-| Background | `#0B0D12` | Main hero canvas |
-| Surface | `#10141A` | Supporting strip |
-| Text | `#F5F3EE` | Main typography |
-| Secondary | `#A8ACB5` | Small labels |
-| Accent | `#D6BA86` | Minimal champagne highlighting |
-| Border | `#AFA38E` | Low-opacity separators |
+Architecture interests and technical background stay in short, expandable sections.
+No giant skills inventory, product matrix, experience chronology, or public counter.
+
+## Visual system
+
+| Element | Treatment |
+| --- | --- |
+| Canvas | Charcoal and near black |
+| Accent | A single warm champagne highlight |
+| Type | Oversized names and project titles |
+| Illustration | Abstract nodes, architecture diagrams, waveforms and data trajectories |
+| Spacing | Calm, generous and editorial |
+| Animation | Subtle decoration only, with reduced-motion support |
 
 ## Assets
 
-- `assets/hero.svg` is the first impression and should remain legible at narrower widths.
-- `assets/telemetry.svg` summarizes four areas without making unverified claims.
-- `assets/signature.svg` provides a distinct visual ending.
-- `assets/system-thinking.svg` illustrates the integrated infrastructure lifecycle without depicting any confidential architecture.
-- SVGs are self-contained and avoid external font or image dependencies.
-- Subtle animation is decorative only, with reduced-motion support.
+- assets/hero.svg introduces the identity.
+- assets/work-inventory.svg links to the public inventory application.
+- assets/work-linguax.svg links to the language application prototype.
+- assets/work-falcon.svg links to the analytics capstone.
+- assets/system-thinking.svg lives inside a collapsed section.
+- assets/signature.svg provides a visual ending.
 
-## Content rules
+Cards are distinct visuals that link to their actual repository pages.
+All visual assets are maintained locally in this repository.
 
-1. Center the narrative on real infrastructure delivery and system integration. Treat storage, virtualization, networking, Linux, cloud and security as connected parts of infrastructure, not separate competing identities.
-2. Make a clear distinction between current role, prior work, and developing architecture interests.
-3. Link only to public projects that actually exist.
-4. Do not publish enterprise data, confidential technical details, credentials or proprietary source.
-5. Keep descriptions focused on capabilities and the concrete artifact, rather than buzzwords.
-6. Avoid external statistics panels in the main composition because they can fail or distract.
+## Interaction
+
+GitHub README supports real clickable links and HTML details / summary disclosure
+controls. It does not support arbitrary page-level JavaScript or custom
+application-style interactions in README content. Keep interactions native.
+
+## Content principles
+
+- Show working projects before listing technologies.
+- Describe current infrastructure delivery accurately and succinctly.
+- Treat architecture as an ongoing development direction.
+- Keep vendor product names, abbreviations and implementation details out of the first view.
+- Never share customer-specific topology, credentials or proprietary work.
+- Only showcase links that exist.
+- Do not present ideas or prototypes as production deployments.
 
 ## Validation
 
-Run `python scripts/validate_profile.py` before proposing a change.
-Automated CI can be enabled after GitHub Actions runners are available for the repository.
-The validator checks SVG XML integrity, accessibility labels and local image references.
-
-## GitHub rendering
-
-GitHub sanitizes README HTML and does not permit custom page-level CSS or JavaScript.
-The layout therefore uses compatible Markdown/HTML tables and linked static SVG assets.
+Run python scripts/validate_profile.py in a repository checkout before merging.
+The validator checks local image references, alt text and SVG XML structure.
