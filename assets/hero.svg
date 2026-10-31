@@ -1,58 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
-<title id="title">Kardelen Geçkin | Engineering, by design</title>
-<desc id="desc">A premium, minimal charcoal and champagne banner with editorial typography and an architectural KG monogram. Infrastructure, security and intelligence.</desc>
+<title id="title">Kardelen Geçkin | Engineering systems with purpose</title>
+<desc id="desc">An editorial charcoal and champagne banner with a minimal layered infrastructure diagram, representing a progression from systems delivery to architecture.</desc>
 <defs>
-  <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0D12"/><stop offset=".56" stop-color="#11151C"/><stop offset="1" stop-color="#171820"/></linearGradient>
-  <linearGradient id="gold" x1="0" y1="0" x2="1"><stop offset="0" stop-color="#B99A64"/><stop offset=".48" stop-color="#E5CCA0"/><stop offset="1" stop-color="#AF8F60"/></linearGradient>
-  <radialGradient id="halo"><stop offset="0" stop-color="#DCC497" stop-opacity=".095"/><stop offset="1" stop-color="#DCC497" stop-opacity="0"/></radialGradient>
-  <pattern id="microgrid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#C7BDAA" stroke-opacity=".035"/></pattern>
-  <style>
-    .micro{font:500 13px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#A8ACB5}
-    .name{font:750 91px 'Segoe UI',Arial,sans-serif;letter-spacing:2.8px;fill:#F5F3EE}
-    .subtitle{font:500 22px 'Segoe UI',Arial,sans-serif;letter-spacing:1.3px;fill:#D1D0CE}
-    .footer{font:500 13px 'Segoe UI',Arial,sans-serif;letter-spacing:2px;fill:#B6B5B3}
-    .monogram{font:600 109px Georgia,'Times New Roman',serif;letter-spacing:-7px;fill:#E7D8BC}
-    .fine{font:500 12px 'Segoe UI',Arial,sans-serif;letter-spacing:2.5px;fill:#BFAF90}
-    .orbit{animation:turn 65s linear infinite;transform-origin:1127px 251px}
-    .trace{animation:fade 5s ease-in-out infinite}
-    @keyframes turn{to{transform:rotate(360deg)}}
-    @keyframes fade{0%,100%{opacity:.36}50%{opacity:.86}}
-    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
-  </style>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0D12"/><stop offset=".58" stop-color="#11151C"/><stop offset="1" stop-color="#171820"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1"><stop stop-color="#A88B61"/><stop offset=".55" stop-color="#E8D2A9"/><stop offset="1" stop-color="#B99D6F"/></linearGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#D1C0A4" stroke-opacity=".028"/></pattern>
+<style>
+.meta{font:500 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#B4B0AC}
+.name{font:750 94px 'Segoe UI',Arial,sans-serif;letter-spacing:2.8px;fill:#F4F1EA}
+.sub{font:450 24px 'Segoe UI',Arial,sans-serif;letter-spacing:1px;fill:#D4D1CA}
+.cap{font:550 13px 'Segoe UI',Arial,sans-serif;letter-spacing:1.7px;fill:#CABDA6}
+.node{font:550 17px 'Segoe UI',Arial,sans-serif;letter-spacing:.3px;fill:#E8E2D8}
+.small{font:500 12px 'Segoe UI',Arial,sans-serif;letter-spacing:1.4px;fill:#9E9C9A}
+.path{stroke-dasharray:7 10;animation:flow 24s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-170}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
 </defs>
-<rect width="1440" height="520" rx="20" fill="url(#canvas)"/>
-<rect width="1440" height="520" rx="20" fill="url(#microgrid)"/>
-<circle cx="1135" cy="255" r="325" fill="url(#halo)"/>
-<rect x="17" y="17" width="1406" height="486" rx="12" fill="none" stroke="#AFA38E" stroke-opacity=".26"/>
-<path d="M83 100H1358M83 424H1358" fill="none" stroke="#BEB4A1" stroke-opacity=".21"/>
-<path d="M84 100V116M1357 100V116M84 409V424M1357 409V424" stroke="#D9C499" stroke-opacity=".65" stroke-width="1.5"/>
-<rect x="86" y="52" width="18" height="18" rx="1.5" fill="none" stroke="#D6BA86" stroke-width="1.6"/>
-<path d="M91 61H99M95 57V65" stroke="#D6BA86" stroke-opacity=".8"/>
-<text x="120" y="67" class="micro">ENGINEERING / PORTFOLIO</text>
-<text x="1351" y="67" text-anchor="end" class="micro">KG · 01</text>
+<rect width="1440" height="520" rx="20" fill="url(#bg)"/>
+<rect width="1440" height="520" rx="20" fill="url(#grid)"/>
+<rect x="17" y="17" width="1406" height="486" rx="12" fill="none" stroke="#AFA38E" stroke-opacity=".29"/>
+<path d="M83 98H1358M83 422H1358" fill="none" stroke="#BEB4A1" stroke-opacity=".22"/>
+<path d="M83 98V115M1358 98V115M83 405V422M1358 405V422" stroke="#DDC599" stroke-opacity=".75"/>
+<rect x="87" y="51" width="17" height="17" rx="2" fill="none" stroke="#D6BA86" stroke-width="1.5"/>
+<path d="M91 59.5H100" stroke="#D6BA86"/>
+<text x="120" y="65" class="meta">SYSTEMS / ENGINEERING</text>
+<text x="1355" y="65" text-anchor="end" class="meta">KG · 01</text>
+<rect x="83" y="172" width="3" height="165" fill="url(#gold)"/>
+<text x="113" y="236" class="name">KARDELEN</text>
+<text x="113" y="333" class="name">GEÇKİN</text>
+<path d="M115 355H250" stroke="url(#gold)" stroke-width="3"/>
+<text x="113" y="394" class="sub">Engineering the foundations of what comes next.</text>
+<path d="M823 123V398" stroke="#D5C8AF" stroke-opacity=".23"/>
 <g>
-  <rect x="84" y="165" width="3" height="175" fill="url(#gold)"/>
-  <text x="112" y="234" class="name">KARDELEN</text>
-  <text x="112" y="331" class="name">GEÇKİN</text>
-  <path d="M115 352H247" stroke="url(#gold)" stroke-width="3"/>
-  <text x="112" y="391" class="subtitle">Infrastructure. Security. Intelligence.</text>
+<text x="895" y="139" class="cap">A SYSTEM IS MORE THAN ITS PARTS.</text>
+<g fill="#161C24" stroke="#BFB19A" stroke-opacity=".55">
+<rect x="899" y="167" width="370" height="53" rx="8"/>
+<rect x="899" y="248" width="370" height="53" rx="8"/>
+<rect x="899" y="329" width="370" height="53" rx="8"/>
 </g>
-<path d="M828 120V405" stroke="#BDB6AA" stroke-opacity=".18"/>
-<g>
-  <circle cx="1127" cy="251" r="175" fill="none" stroke="#D7C8AC" stroke-opacity=".16"/>
-  <circle cx="1127" cy="251" r="151" fill="none" stroke="#D7C8AC" stroke-opacity=".2"/>
-  <circle cx="1127" cy="251" r="128" fill="#141820" stroke="#DAC49C" stroke-opacity=".35"/>
-  <circle cx="1127" cy="251" r="108" fill="none" stroke="#E7D6B7" stroke-opacity=".14"/>
-  <g class="orbit"><circle cx="1127" cy="251" r="151" fill="none" stroke="url(#gold)" stroke-width="2" stroke-dasharray="38 910" stroke-linecap="round"/><circle cx="1278" cy="251" r="3.5" fill="#D7BD8F"/></g>
-  <path d="M975 251H1024M1230 251H1279M1127 99V147M1127 355V403" stroke="#B8AA90" stroke-opacity=".28"/>
-  <text x="1127" y="282" text-anchor="middle" class="monogram">KG</text>
-  <text x="1127" y="317" text-anchor="middle" class="fine">SYSTEMS / THINKING</text>
-  <path class="trace" d="M1000 151L1014 137M1240 351L1254 365" stroke="#E5CAA0" stroke-width="2"/>
+<path d="M920 193H947M920 275H947M920 355H947" stroke="url(#gold)" stroke-width="3"/>
+<text x="962" y="198" class="node">Workloads &amp; requirements</text>
+<text x="962" y="279" class="node">Compute · network · data</text>
+<text x="962" y="360" class="node">Resilience &amp; operations</text>
+<path class="path" d="M1085 220V248M1085 301V329" stroke="#D6BB8B" stroke-opacity=".75" stroke-width="2.5"/>
+<circle cx="1085" cy="234" r="3" fill="#E3CA99"/>
+<circle cx="1085" cy="315" r="3" fill="#E3CA99"/>
+<text x="900" y="399" class="small">DESIGN  /  INTEGRATE  /  VALIDATE</text>
 </g>
-<g class="footer">
-  <text x="87" y="465">01 / STORAGE SYSTEMS</text>
-  <text x="434" y="465">02 / LINUX &amp; AUTOMATION</text>
-  <text x="861" y="465">03 / CYBERSECURITY &amp; AI</text>
-  <text x="1352" y="465" text-anchor="end" class="fine">ISTANBUL</text>
-</g>
+<text x="87" y="463" class="meta">BASED IN ISTANBUL</text>
+<text x="1355" y="463" text-anchor="end" class="meta">THINK IN SYSTEMS. BUILD FOR REALITY.</text>
 </svg>
