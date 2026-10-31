@@ -1,53 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
-<title id="title">Kardelen Geçkin | Engineering systems with purpose</title>
-<desc id="desc">An editorial charcoal and champagne banner with a minimal layered infrastructure diagram, representing a progression from systems delivery to architecture.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-labelledby="title desc">
+<title id="title">Kardelen Geçkin — systems in context</title>
+<desc id="desc">A contemporary editorial banner in near-black and warm champagne. A restrained systems topology connects points on the right, with Kardelen's name and a simple engineering statement on the left.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0D12"/><stop offset=".58" stop-color="#11151C"/><stop offset="1" stop-color="#171820"/></linearGradient>
-<linearGradient id="gold" x1="0" y1="0" x2="1"><stop stop-color="#A88B61"/><stop offset=".55" stop-color="#E8D2A9"/><stop offset="1" stop-color="#B99D6F"/></linearGradient>
-<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#D1C0A4" stroke-opacity=".028"/></pattern>
-<style>
-.meta{font:500 12px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#B4B0AC}
-.name{font:750 94px 'Segoe UI',Arial,sans-serif;letter-spacing:2.8px;fill:#F4F1EA}
-.sub{font:450 24px 'Segoe UI',Arial,sans-serif;letter-spacing:1px;fill:#D4D1CA}
-.cap{font:550 13px 'Segoe UI',Arial,sans-serif;letter-spacing:1.7px;fill:#CABDA6}
-.node{font:550 17px 'Segoe UI',Arial,sans-serif;letter-spacing:.3px;fill:#E8E2D8}
-.small{font:500 12px 'Segoe UI',Arial,sans-serif;letter-spacing:1.4px;fill:#9E9C9A}
-.path{stroke-dasharray:7 10;animation:flow 24s linear infinite}
-@keyframes flow{to{stroke-dashoffset:-170}}
-@media(prefers-reduced-motion:reduce){*{animation:none!important}}
-</style>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A0C10"/><stop offset=".64" stop-color="#141820"/><stop offset="1" stop-color="#181A20"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1"><stop stop-color="#B29667"/><stop offset=".5" stop-color="#EDD6AA"/><stop offset="1" stop-color="#AD9269"/></linearGradient>
+  <radialGradient id="bloom"><stop stop-color="#D1BA94" stop-opacity=".10"/><stop offset="1" stop-color="#D1BA94" stop-opacity="0"/></radialGradient>
+  <style>
+    .label{font:600 16px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#B2B0AD}
+    .name{font:760 87px 'Segoe UI',Arial,sans-serif;letter-spacing:3px;fill:#F8F5EE}
+    .sub{font:400 29px 'Segoe UI',Arial,sans-serif;letter-spacing:.3px;fill:#D4D0C8}
+    .small{font:500 14px 'Segoe UI',Arial,sans-serif;letter-spacing:2.3px;fill:#A8A49D}
+    .segment{stroke:#C3AD89;stroke-width:1.4;opacity:.38}
+    .node{fill:#131720;stroke:#CDB68C;stroke-width:1.5}
+    .signal{animation:glow 4.8s ease-in-out infinite}
+    .float{animation:drift 12s ease-in-out infinite}
+    @keyframes glow{0%,100%{opacity:.4}50%{opacity:1}}
+    @keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
 </defs>
-<rect width="1440" height="520" rx="20" fill="url(#bg)"/>
-<rect width="1440" height="520" rx="20" fill="url(#grid)"/>
-<rect x="17" y="17" width="1406" height="486" rx="12" fill="none" stroke="#AFA38E" stroke-opacity=".29"/>
-<path d="M83 98H1358M83 422H1358" fill="none" stroke="#BEB4A1" stroke-opacity=".22"/>
-<path d="M83 98V115M1358 98V115M83 405V422M1358 405V422" stroke="#DDC599" stroke-opacity=".75"/>
-<rect x="87" y="51" width="17" height="17" rx="2" fill="none" stroke="#D6BA86" stroke-width="1.5"/>
-<path d="M91 59.5H100" stroke="#D6BA86"/>
-<text x="120" y="65" class="meta">SYSTEMS / ENGINEERING</text>
-<text x="1355" y="65" text-anchor="end" class="meta">KG · 01</text>
-<rect x="83" y="172" width="3" height="165" fill="url(#gold)"/>
-<text x="113" y="236" class="name">KARDELEN</text>
-<text x="113" y="333" class="name">GEÇKİN</text>
-<path d="M115 355H250" stroke="url(#gold)" stroke-width="3"/>
-<text x="113" y="394" class="sub">Engineering the foundations of what comes next.</text>
-<path d="M823 123V398" stroke="#D5C8AF" stroke-opacity=".23"/>
-<g>
-<text x="895" y="139" class="cap">A SYSTEM IS MORE THAN ITS PARTS.</text>
-<g fill="#161C24" stroke="#BFB19A" stroke-opacity=".55">
-<rect x="899" y="167" width="370" height="53" rx="8"/>
-<rect x="899" y="248" width="370" height="53" rx="8"/>
-<rect x="899" y="329" width="370" height="53" rx="8"/>
+<rect width="1440" height="430" rx="19" fill="url(#bg)"/>
+<circle cx="1106" cy="206" r="277" fill="url(#bloom)"/>
+<rect x="17" y="17" width="1406" height="396" rx="10" fill="none" stroke="#B6A88F" stroke-opacity=".27"/>
+<path d="M77 95H1364M77 357H1364" stroke="#C0B29D" stroke-opacity=".21"/>
+<path d="M77 95V110M1364 95V110M77 342V357M1364 342V357" stroke="#E5C99B" stroke-opacity=".7"/>
+<rect x="79" y="51" width="16" height="16" rx="2" fill="none" stroke="#DAC292" stroke-width="1.3"/>
+<path d="M83 59H91" stroke="#DAC292" stroke-width="1.3"/>
+<text x="109" y="65" class="label">ENGINEERING IN CONTEXT</text>
+<text x="1359" y="65" text-anchor="end" class="small">KG / ISTANBUL</text>
+<rect x="79" y="160" width="3" height="137" fill="url(#accent)"/>
+<text x="103" y="226" class="name">KARDELEN</text>
+<text x="103" y="310" class="name">GEÇKİN</text>
+<path d="M104 331H197" stroke="url(#accent)" stroke-width="2.5"/>
+<g class="float">
+<path class="segment" d="M924 218L1046 142L1166 215L1285 130M924 218L1075 292L1166 215L1282 301M1046 142L1075 292M1285 130L1282 301M1166 215L1166 111"/>
+<circle class="node" cx="924" cy="218" r="13"/><circle class="node" cx="1046" cy="142" r="10"/><circle class="node" cx="1166" cy="215" r="17"/><circle class="node" cx="1285" cy="130" r="10"/><circle class="node" cx="1075" cy="292" r="10"/><circle class="node" cx="1282" cy="301" r="13"/><circle class="node" cx="1166" cy="111" r="7"/>
+<circle cx="1166" cy="215" r="5" fill="#E9D1A2"/><circle class="signal" cx="924" cy="218" r="3.6" fill="#E9D1A2"/><circle class="signal" cx="1282" cy="301" r="3.6" fill="#E9D1A2"/>
 </g>
-<path d="M920 193H947M920 275H947M920 355H947" stroke="url(#gold)" stroke-width="3"/>
-<text x="962" y="198" class="node">Workloads &amp; requirements</text>
-<text x="962" y="279" class="node">Compute · network · data</text>
-<text x="962" y="360" class="node">Resilience &amp; operations</text>
-<path class="path" d="M1085 220V248M1085 301V329" stroke="#D6BB8B" stroke-opacity=".75" stroke-width="2.5"/>
-<circle cx="1085" cy="234" r="3" fill="#E3CA99"/>
-<circle cx="1085" cy="315" r="3" fill="#E3CA99"/>
-<text x="900" y="399" class="small">DESIGN  /  INTEGRATE  /  VALIDATE</text>
-</g>
-<text x="87" y="463" class="meta">BASED IN ISTANBUL</text>
-<text x="1355" y="463" text-anchor="end" class="meta">THINK IN SYSTEMS. BUILD FOR REALITY.</text>
+<text x="80" y="387" class="small">THE SYSTEMS BEHIND THE SYSTEMS.</text>
+<text x="1360" y="387" text-anchor="end" class="small">BUILD · CONNECT · UNDERSTAND</text>
 </svg>
