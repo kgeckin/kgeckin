@@ -10,18 +10,18 @@ rules and a single warm accent take priority over glow effects or visual noise.
 
 | Token | Value | Usage |
 | --- | --- | --- |
-| Background | \`#0B0D12\` | Main hero canvas |
-| Surface | \`#10141A\` | Supporting strip |
-| Text | \`#F5F3EE\` | Main typography |
-| Secondary | \`#A8ACB5\` | Small labels |
-| Accent | \`#D6BA86\` | Minimal champagne highlighting |
-| Border | \`#AFA38E\` | Low-opacity separators |
+| Background | `#0B0D12` | Main hero canvas |
+| Surface | `#10141A` | Supporting strip |
+| Text | `#F5F3EE` | Main typography |
+| Secondary | `#A8ACB5` | Small labels |
+| Accent | `#D6BA86` | Minimal champagne highlighting |
+| Border | `#AFA38E` | Low-opacity separators |
 
 ## Assets
 
-- \`assets/hero.svg\` is the first impression and should remain legible at narrower widths.
-- \`assets/telemetry.svg\` summarizes four areas without making unverified claims.
-- \`assets/signature.svg\` provides a distinct visual ending.
+- `assets/hero.svg` is the first impression and should remain legible at narrower widths.
+- `assets/telemetry.svg` summarizes four areas without making unverified claims.
+- `assets/signature.svg` provides a distinct visual ending.
 - SVGs are self-contained and avoid external font or image dependencies.
 - Subtle animation is decorative only, with reduced-motion support.
 
@@ -35,7 +35,7 @@ rules and a single warm accent take priority over glow effects or visual noise.
 
 ## Validation
 
-Run \`python scripts/validate_profile.py\` before proposing a change.
+Run `python scripts/validate_profile.py` before proposing a change.
 The GitHub Actions workflow checks SVG XML integrity, accessibility labels,
 and local image references on push and pull requests.
 
