@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Mission control status telemetry: infrastructure, security, intelligence, automation">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07182c"/><stop offset=".55" stop-color="#10142e"/><stop offset="1" stop-color="#081a2b"/></linearGradient><linearGradient id="line" x1="0" x2="1"><stop stop-color="#59eff5"/><stop offset=".5" stop-color="#a48cff"/><stop offset="1" stop-color="#ed72ca"/></linearGradient><style>.l{font:600 12px 'Consolas','Courier New',monospace;letter-spacing:2px;fill:#829dbd}.v{font:700 19px 'Segoe UI',Arial,sans-serif;fill:#d6f7ff}.pulse{animation:pulse 2.6s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}@media(prefers-reduced-motion:reduce){*{animation:none}}</style></defs>
+<rect x="1" y="1" width="1198" height="128" rx="15" fill="url(#bg)" stroke="#5fe8f1" stroke-opacity=".29"/>
+<path d="M16 4h1168" stroke="url(#line)" stroke-width="3"/>
+<path d="M298 28v73M596 28v73M895 28v73" stroke="#6a9bc4" stroke-opacity=".27"/>
+<g transform="translate(34 35)"><circle class="pulse" cx="10" cy="9" r="6" fill="#53ffb5"/><text x="26" y="14" class="l">NOW EXPLORING</text><text x="0" y="52" class="v">Systems Engineering</text></g>
+<g transform="translate(327 35)"><text x="0" y="14" class="l">PRIMARY STACK</text><text x="0" y="52" class="v">Python / Linux / Storage</text></g>
+<g transform="translate(625 35)"><text x="0" y="14" class="l">SECURITY MODE</text><text x="0" y="52" class="v">Security by Design</text></g>
+<g transform="translate(924 35)"><text x="0" y="14" class="l">CURIOSITY LEVEL</text><text x="0" y="52" class="v">Always Learning</text></g>
+</svg>
