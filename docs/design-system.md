@@ -2,7 +2,7 @@
 
 ## Direction
 
-Premium Minimal is a calm, editorial expression of an engineering portfolio.
+Premium Minimal is a calm, editorial expression of an infrastructure engineering portfolio and a developing architectural perspective.
 The design is intentionally restrained: typography, generous spacing, hairline
 rules and a single warm accent take priority over glow effects or visual noise.
 
@@ -22,16 +22,18 @@ rules and a single warm accent take priority over glow effects or visual noise.
 - `assets/hero.svg` is the first impression and should remain legible at narrower widths.
 - `assets/telemetry.svg` summarizes four areas without making unverified claims.
 - `assets/signature.svg` provides a distinct visual ending.
+- `assets/system-thinking.svg` illustrates the integrated infrastructure lifecycle without depicting any confidential architecture.
 - SVGs are self-contained and avoid external font or image dependencies.
 - Subtle animation is decorative only, with reduced-motion support.
 
 ## Content rules
 
-1. Make a clear distinction between current experience, past projects, and future interests.
-2. Link only to public projects that actually exist.
-3. Do not publish enterprise data, confidential technical details, credentials or proprietary source.
-4. Keep descriptions focused on capabilities and the concrete artifact, rather than buzzwords.
-5. Avoid external statistics panels in the main composition because they can fail or distract.
+1. Center the narrative on real infrastructure delivery and system integration. Treat storage, virtualization, networking, Linux, cloud and security as connected parts of infrastructure, not separate competing identities.
+2. Make a clear distinction between current role, prior work, and developing architecture interests.
+3. Link only to public projects that actually exist.
+4. Do not publish enterprise data, confidential technical details, credentials or proprietary source.
+5. Keep descriptions focused on capabilities and the concrete artifact, rather than buzzwords.
+6. Avoid external statistics panels in the main composition because they can fail or distract.
 
 ## Validation
 
