@@ -1,145 +1,143 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Kardelen Geçkin | Premium minimal engineering portfolio" />
+<img src="./assets/hero.svg" width="100%" alt="Kardelen Geçkin | Systems engineering and infrastructure architecture direction" />
 
 <br />
 
-<img src="./assets/telemetry.svg" width="100%" alt="Enterprise storage, physics engineering, Python and Linux, security and AI" />
+<img src="./assets/telemetry.svg" width="100%" alt="Enterprise storage delivery, systems integration and infrastructure architecture direction" />
 
 <br />
 
-<p>
 <a href="https://github.com/kgeckin?tab=repositories">PROJECTS</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/krgckn/">LINKEDIN</a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://kgeckin.github.io/">PORTFOLIO</a>
-</p>
 
 </div>
 
 <br />
 
-## 01 / Introduction
+## 01 / Engineering perspective
 
-### Thoughtful engineering for complex systems.
+### Systems make sense when their connections do.
 
-I am an **IT Storage Engineer** and **Physics Engineering student** with experience spanning enterprise infrastructure, cybersecurity, and practical software development.
+I work in **infrastructure delivery and system integration**, currently specializing in enterprise storage at **Huawei Türkiye**. My work brings me close to the details that make data center infrastructure function: physical deployment, logical design, connectivity, configuration, and validation.
 
-I am interested in how systems are designed, connected, secured, and operated. My projects bring together **systems thinking, Python automation, data analysis, and applied AI** to solve clearly defined technical problems.
+I have a background in **Physics Engineering**, and I approach technical problems by understanding their constraints, dependencies, and behavior as a whole.
 
-> Understand the system. Question the assumptions. Build with intention. Verify the result.
+My direction is toward **infrastructure and cloud architecture**: designing environments where compute, virtualization, networking, storage, security, and operations fit together with clear tradeoffs.
 
 <br />
 
-## 02 / Practice areas
+## 02 / From requirements to working systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3>Infrastructure &amp; Storage</h3>
-  <p>Enterprise storage delivery, data center architecture, SAN connectivity, block and file storage, and technical design.</p>
-  <sub>STORAGE · SAN · SYSTEM INTEGRATION</sub>
+  <h3>Design &amp; planning</h3>
+  <p>Translating requirements into low-level designs, including rack layouts, power and connectivity plans, port mappings, IP and VLAN considerations, and storage-to-host integration.</p>
 </td>
 <td width="50%" valign="top">
-  <h3>Security Engineering</h3>
-  <p>Security awareness applications, secure development practices, access concepts, and defensive analysis.</p>
-  <sub>CYBERSECURITY · AWARENESS · ANALYSIS</sub>
+  <h3>Delivery &amp; integration</h3>
+  <p>Working across data center deployments, enterprise storage commissioning, SAN and Ethernet connectivity, host integration, and the surrounding network and virtualization environment.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3>Linux &amp; Automation</h3>
-  <p>Python tools, shell workflows, infrastructure operations, reporting, and repeatable system tasks.</p>
-  <sub>PYTHON · LINUX · AUTOMATION</sub>
+  <h3>Validation &amp; resilience</h3>
+  <p>Understanding service dependencies, redundancy, capacity, performance, migration requirements, and operational risks before a solution can be considered ready.</p>
 </td>
 <td width="50%" valign="top">
-  <h3>Applied AI &amp; Data</h3>
-  <p>Machine learning, natural language processing, statistical modeling, data visualization, and AI-assisted workflows.</p>
-  <sub>ML · NLP · DATA SCIENCE</sub>
+  <h3>Automation &amp; analysis</h3>
+  <p>Using scripting, data analysis, and software tools to make infrastructure work more repeatable, observable, and easier to reason about.</p>
 </td>
 </tr>
 </table>
 
-<br />
-
-## 03 / Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <sub>01 / APPLIED AI</sub>
-  <h3><a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">LinguaX</a></h3>
-  <p>A video transcription and translation prototype with subtitle export, built around speech recognition and language models.</p>
-  <p><code>Python</code> <code>Streamlit</code> <code>Whisper</code> <code>FFmpeg</code></p>
-  <a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">Explore project ↗</a>
-</td>
-<td width="50%" valign="top">
-  <sub>02 / WEB APPLICATIONS</sub>
-  <h3><a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">Inventory &amp; User Management</a></h3>
-  <p>A Flask-based inventory and user management portal featuring roles, admin workflows, and dashboard views.</p>
-  <p><code>Python</code> <code>Flask</code> <code>HTML</code> <code>CSS</code></p>
-  <a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">Explore project ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <sub>03 / DATA SCIENCE</sub>
-  <h3><a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">Falcon 9 Landing Prediction</a></h3>
-  <p>An end-to-end learning project on space launch data, from collection and exploration to visualization and predictive modeling.</p>
-  <p><code>Python</code> <code>SQL</code> <code>Scikit-learn</code> <code>Plotly</code></p>
-  <a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">Explore project ↗</a>
-</td>
-<td width="50%" valign="top">
-  <sub>04 / INTERACTIVE SOFTWARE</sub>
-  <h3><a href="https://github.com/kgeckin/game2048">2048 · Two Implementations</a></h3>
-  <p>The familiar puzzle explored through a Python Flask application and a separate browser-native JavaScript version.</p>
-  <p><code>Flask</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-  <a href="https://github.com/kgeckin/game2048">Explore project ↗</a>
-</td>
-</tr>
-</table>
-
-<sub>Some enterprise and security projects remain private to respect organizational confidentiality and intellectual property. Public repositories are a selected portfolio, not a complete work history.</sub>
-
-<br /><br />
-
-## 04 / Tools & methods
-
-**Programming & development**
-
-<code>Python</code> &nbsp; <code>Bash</code> &nbsp; <code>SQL</code> &nbsp; <code>Flask</code> &nbsp; <code>Git</code> &nbsp; <code>HTML / CSS / JavaScript</code>
-
-**Data & applied AI**
-
-<code>Pandas</code> &nbsp; <code>NumPy</code> &nbsp; <code>Scikit-learn</code> &nbsp; <code>Streamlit</code> &nbsp; <code>NLP</code>
-
-**Systems & infrastructure**
-
-<code>Linux</code> &nbsp; <code>Enterprise Storage</code> &nbsp; <code>SAN</code> &nbsp; <code>iSCSI</code> &nbsp; <code>System Integration</code>
+<sub>Current role: IT Storage Engineer. The broader architecture focus describes my professional development direction, not a current architect title.</sub>
 
 <br />
 
-## 05 / Exploring next
+## 03 / Thinking in systems
 
-| Direction | What I want to build |
-| :--- | :--- |
-| **Storage observability** | Tools for capacity, health, and performance analysis using synthetic or appropriately authorized data |
-| **Linux operations** | Reusable diagnostics, automation, and system validation workflows |
-| **Security engineering** | Defensive log analysis, detection logic, and secure application patterns |
-| **Applied AI for infrastructure** | Document intelligence and anomaly analysis for technical operations |
+An infrastructure design is a set of connected decisions. A storage choice affects host connectivity and network paths. Network design affects failure domains. Virtualization and workload behavior affect performance and availability. Recovery objectives shape protection and operational requirements.
 
-These are development interests, not claims of completed or production-deployed products.
-
-<br />
-
-## 06 / Connect
-
-<a href="https://github.com/kgeckin">GitHub</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/krgckn/">LinkedIn</a> &nbsp; · &nbsp; <a href="https://kgeckin.github.io/">Portfolio</a>
+That is the kind of engineering I want my work to demonstrate.
 
 <div align="center">
 
+<img src="./assets/system-thinking.svg" width="100%" alt="Infrastructure design flow from requirements through low-level design, integration, validation and operations, with compute, network, storage and security as connected layers." />
+
+</div>
+
 <br />
+
+## 04 / Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub>INFRASTRUCTURE SOFTWARE</sub>
+  <h3><a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">Inventory &amp; User Management Portal</a></h3>
+  <p>A Flask application for infrastructure inventory, users, roles, administrative workflows and dashboard reporting.</p>
+  <p><code>Python</code> <code>Flask</code> <code>Access Control</code></p>
+  <a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">View implementation ↗</a>
+</td>
+<td width="50%" valign="top">
+  <sub>APPLIED AI</sub>
+  <h3><a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">LinguaX</a></h3>
+  <p>A prototype connecting speech recognition, translation and subtitle generation into a practical application workflow.</p>
+  <p><code>Python</code> <code>Streamlit</code> <code>Whisper</code></p>
+  <a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">View implementation ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>ANALYTICAL ENGINEERING</sub>
+  <h3><a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">Falcon 9 Landing Prediction</a></h3>
+  <p>A structured study in data collection, exploratory analysis, visualization and predictive model evaluation.</p>
+  <p><code>Python</code> <code>SQL</code> <code>Scikit-learn</code></p>
+  <a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">View implementation ↗</a>
+</td>
+<td width="50%" valign="top">
+  <sub>ADDITIONAL EXPERIMENTS</sub>
+  <h3><a href="https://github.com/kgeckin?tab=repositories">More from the workshop</a></h3>
+  <p>Small applications, academic work, learning experiments and prototypes that document the path from an idea to working software.</p>
+  <a href="https://github.com/kgeckin?tab=repositories">Browse repositories ↗</a>
+</td>
+</tr>
+</table>
+
+<sub>Some enterprise and security engineering projects remain private due to organizational confidentiality and intellectual property requirements. The public work shown here is a selected portfolio.</sub>
+
+<br />
+
+## 05 / Engineering foundation
+
+Rather than treating technologies as separate destinations, I study how they interact inside an operating environment.
+
+**Infrastructure** &nbsp; Compute · Virtualization · Storage · SAN · Networking · Data center integration
+
+**Systems** &nbsp; Linux · Administration · Troubleshooting · Automation · Monitoring
+
+**Engineering tools** &nbsp; Python · Bash · SQL · Git · Flask · Data analysis
+
+**Cross-cutting disciplines** &nbsp; Security principles · Availability · Disaster recovery · Applied AI
+
+<br />
+
+## 06 / What I am building toward
+
+My next projects will explore the decisions behind infrastructure design: how to connect and validate systems, observe their behavior, automate operational tasks and reason about recovery.
+
+I am particularly interested in **hybrid infrastructure, cloud platforms, network architecture, infrastructure as code and architecture documentation**.
+
+These are learning and development directions, not claims of completed products or professional certifications.
+
+<br />
+
+<div align="center">
 
 <img src="./assets/signature.svg" width="100%" alt="KG. Curiosity, made practical. Engineering, analysis and exploration." />
 
