@@ -33,6 +33,17 @@ StorageOps Lab explores how performance, capacity and alerts can be observed tog
 <br />
 <br />
 
+<a href="https://github.com/kgeckin/linuxops-toolkit">
+  <img src="./assets/work-linuxops.svg" width="100%" alt="LinuxOps Toolkit V2, a local Linux monitoring lab with live CPU, memory, disk and network readings, CLI diagnostics, and historical charts." />
+</a>
+
+LinuxOps Toolkit monitors the Linux environment it runs in, with an approximately two-second live metrics stream, a separate SQLite history and CLI diagnostics. Its responsive local dashboard supports performance charts, health thresholds and read-only operational checks. Running it in WSL measures the Linux environment, not the host Windows system.
+
+<sub>PYTHON · FASTAPI · LINUX · SQLITE · SERVER-SENT EVENTS</sub>
+
+<br />
+<br />
+
 ### Selected experiments
 
 <a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">

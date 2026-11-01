@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="352" viewBox="0 0 1200 352" role="img" aria-labelledby="title desc">
+<title id="title">LinuxOps Toolkit V2 | Live Linux Observability</title>
+<desc id="desc">Illustrated Linux command terminal and monitoring charts with 2-second live stream, thirty-second history sampling, and read-only diagnostics. A design illustration, not a real telemetry screenshot.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121F2B"/><stop offset="1" stop-color="#1C3140"/></linearGradient>
+  <linearGradient id="signal" x1="0" y1="0" x2="1"><stop stop-color="#66D4C1"/><stop offset="1" stop-color="#DCC18F"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#6CDCC8" stop-opacity=".3"/><stop offset="1" stop-color="#6CDCC8" stop-opacity="0"/></linearGradient>
+  <style>
+    .overline{font:700 12px 'Segoe UI',Arial,sans-serif;letter-spacing:2.3px;fill:#C4D5DF}
+    .head{font:800 52px 'Segoe UI',Arial,sans-serif;letter-spacing:-1px;fill:#F6F8FA}
+    .body{font:450 18px 'Segoe UI',Arial,sans-serif;fill:#CDDEE6}
+    .code{font:500 16px Consolas,monospace;fill:#A1E7D9}
+    .small{font:700 11px 'Segoe UI',Arial,sans-serif;letter-spacing:1.5px;fill:#B2C8D3}
+    .foot{font:700 13px 'Segoe UI',Arial,sans-serif;letter-spacing:1.4px;fill:#80E1D1}
+    .value{font:800 26px 'Segoe UI',Arial,sans-serif;fill:#F7F9FC}
+  </style>
+</defs>
+<rect width="1200" height="352" rx="14" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="350" rx="13" fill="none" stroke="#83A7B0" stroke-opacity=".45"/>
+<path d="M30 54H1170" stroke="#7395A2" stroke-opacity=".35"/>
+<circle cx="41" cy="29" r="5" fill="#6BD8C5"/><text class="overline" x="56" y="34">PROJECT 02 / LINUX OPERATIONS</text><text class="small" x="1160" y="34" text-anchor="end">LOCAL-FIRST OBSERVABILITY</text>
+<text class="head" x="36" y="132">LinuxOps Toolkit</text>
+<text class="body" x="39" y="174">Measure. Diagnose. Understand.</text>
+<text class="body" x="39" y="211">CPU / memory / disk / network</text>
+<rect x="38" y="242" width="162" height="27" rx="6" fill="#254553"/><text class="small" x="49" y="260">SSE / 2 SEC</text>
+<rect x="213" y="242" width="178" height="27" rx="6" fill="#254553"/><text class="small" x="223" y="260">SQLITE / HISTORY</text>
+<text class="foot" x="38" y="320">EXPLORE THE CODE ↗</text>
+<rect x="548" y="73" width="616" height="246" rx="11" fill="#0E1925" stroke="#567786"/>
+<rect x="548" y="73" width="616" height="35" rx="11" fill="#213343"/><rect x="549" y="96" width="614" height="12" fill="#213343"/>
+<circle cx="571" cy="91" r="5" fill="#F08E84"/><circle cx="588" cy="91" r="5" fill="#EAC686"/><circle cx="605" cy="91" r="5" fill="#70D7C5"/>
+<text class="small" x="633" y="95">LINUXOPS / LIVE SESSION</text><text class="small" x="1140" y="95" text-anchor="end">ILLUSTRATIVE</text>
+<rect x="567" y="126" width="242" height="171" rx="7" fill="#162838" stroke="#375568"/>
+<text class="code" x="581" y="150">$ linuxops serve</text><text class="small" x="581" y="175">LISTENING / LOOPBACK</text>
+<path d="M580 189h109M580 205h181M580 221h154" stroke="#537488" stroke-width="3" stroke-linecap="round"/>
+<circle cx="583" cy="247" r="5" fill="#6DDDC9"/><text class="small" x="597" y="251">LIVE STREAM CONNECTED</text>
+<text class="small" x="580" y="277">READ-ONLY / LOCAL</text>
+<rect x="823" y="126" width="320" height="79" rx="8" fill="#162838" stroke="#375568"/>
+<text class="small" x="836" y="147">CPU UTILIZATION</text><text class="value" x="838" y="184">LIVE</text><text class="small" x="1124" y="184" text-anchor="end">2 SEC</text>
+<rect x="823" y="218" width="320" height="79" rx="8" fill="#162838" stroke="#375568"/>
+<text class="small" x="836" y="239">SYSTEM SIGNAL / EXAMPLE</text>
+<path d="M835 279L862 268 891 273 915 247 946 260 972 238 1002 258 1035 234 1067 251 1100 225 1128 236V287H835Z" fill="url(#area)"/>
+<path d="M835 279L862 268 891 273 915 247 946 260 972 238 1002 258 1035 234 1067 251 1100 225 1128 236" stroke="url(#signal)" stroke-width="3" fill="none" stroke-linejoin="round"/>
+</svg>
