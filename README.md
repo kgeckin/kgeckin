@@ -1,69 +1,86 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Kardelen Geçkin. The systems behind the systems." />
+<img src="./assets/hero.svg" width="100%" alt="Kardelen Geçkin, infrastructure engineering, systems thinking and observability." />
 
 <br />
 
-**IT Storage Engineer at Huawei** · Infrastructure & systems
+**IT Storage Engineer · Infrastructure / Systems / Observability**
 
-I work where platforms connect. Curious about how infrastructure is built, how it stays reliable, and what it takes to design the whole picture.
+I work where infrastructure components meet. My focus is understanding how systems are designed, deployed, connected and made reliable.
 
 <br />
 
-<a href="https://github.com/kgeckin?tab=repositories">GitHub</a>
-&nbsp; / &nbsp;
+<a href="https://kgeckin.github.io/"><strong>Explore portfolio ↗</strong></a>
+&nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/krgckn/">LinkedIn</a>
-&nbsp; / &nbsp;
-<a href="https://kgeckin.github.io/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/kgeckin?tab=repositories">Repositories</a>
 
 </div>
 
 <br />
 
-<p align="center"><sub>SELECTED WORK · TAP A CARD TO EXPLORE</sub></p>
+### Featured engineering work
 
-<a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">
-  <img src="./assets/work-inventory.svg" width="100%" alt="Explore Inventory Portal, a Flask application for inventory and user administration." />
+<a href="https://github.com/kgeckin/storageops-lab">
+  <img src="./assets/work-storageops.svg" width="100%" alt="StorageOps Lab, an observability project with a dashboard, simulated storage arrays, capacity charts and optional local host telemetry." />
 </a>
 
+StorageOps Lab explores how performance, capacity and alerts can be observed together. It combines a FastAPI simulator, React dashboard and Docker deployment with an optional, explicitly authorized host telemetry agent. The simulated storage readings are not actual storage hardware measurements.
+
+<sub>PYTHON · FASTAPI · REACT · DOCKER · OBSERVABILITY</sub>
+
+<br />
+<br />
+
+### Selected experiments
+
 <a href="https://github.com/kgeckin/UP-School-AI-First-Developer/tree/main/Capstone">
-  <img src="./assets/work-linguax.svg" width="100%" alt="Explore LinguaX, a speech recognition, translation and subtitle application prototype." />
+  <img src="./assets/work-linguax.svg" width="100%" alt="LinguaX, an applied AI prototype for speech recognition, translation and subtitles." />
+</a>
+
+<a href="https://github.com/kgeckin/W-Code2.0_FrontEnd/tree/main/HW">
+  <img src="./assets/work-inventory.svg" width="100%" alt="Inventory Portal, a Flask application prototype for asset management and administration." />
 </a>
 
 <a href="https://github.com/kgeckin/IBM_Applied_Data_Science_Capstone">
-  <img src="./assets/work-falcon.svg" width="100%" alt="Explore Falcon 9 Analysis, an applied data science project with predictive modeling." />
+  <img src="./assets/work-falcon.svg" width="100%" alt="Falcon 9 Analysis, exploratory analysis and machine learning experiments." />
 </a>
+
+<div align="center">
+
+[View all selected projects on the portfolio](https://kgeckin.github.io/#work)
+
+</div>
 
 <br />
 
 <details>
-<summary><b>Behind the systems</b> &nbsp; · &nbsp; A closer look at my work</summary>
+<summary><strong>Engineering perspective</strong> · What connects my work</summary>
 
 <br />
 
-At Huawei, I help deliver enterprise storage in real data center environments. It is work that crosses hardware, networks, virtualization, systems integration, and operational reliability.
+My current work is in enterprise storage delivery and system integration. Infrastructure naturally crosses compute, virtualization, networking, storage and operational validation.
 
-My background in physics engineering shapes how I think about constraints, dependencies, and failure modes.
+Physics engineering shapes how I think about measurements, assumptions and failure modes. I am developing toward infrastructure and cloud architecture by building and documenting working systems.
 
-<img src="./assets/system-thinking.svg" width="100%" alt="An infrastructure lifecycle that connects requirements, design, integration, validation and operations across system layers." />
+<img src="./assets/system-thinking.svg" width="100%" alt="Engineering lifecycle from requirements and low-level design to integration, validation and operations across infrastructure domains." />
 
 </details>
 
 <details>
-<summary><b>What comes next</b> &nbsp; · &nbsp; Ideas I am exploring</summary>
+<summary><strong>Other explorations</strong> · Research, software and data</summary>
 
 <br />
 
-I am growing toward infrastructure and cloud architecture through hands-on engineering. My interests include Linux, automation, networking, resilient systems, and the thoughtful use of AI in technical operations.
+I also work with [computational physics notebooks](https://github.com/kgeckin/FIZ_437E), a [2048 web and Flask game](https://github.com/kgeckin/game2048), and [data science exercises](https://github.com/kgeckin/Miuul_MachineLearning_Bootcamp).
 
-[Browse other experiments](https://github.com/kgeckin?tab=repositories)
+Only repositories intended for public sharing are linked here. Customer infrastructure, internal documents and unapproved security exercises are not portfolio demonstrations.
 
 </details>
 
 <br />
 
 <div align="center">
-
-<img src="./assets/signature.svg" width="100%" alt="KG. Curiosity, made practical." />
-
+  <a href="https://kgeckin.github.io/"><img src="./assets/signature.svg" width="100%" alt="KG. Curiosity, made practical. Visit the portfolio for additional work." /></a>
 </div>
