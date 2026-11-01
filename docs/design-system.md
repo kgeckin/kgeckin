@@ -7,7 +7,7 @@ The GitHub README and [portfolio website](https://kgeckin.github.io/) share an e
 ## Priority
 
 1. Identify Kardelen Geçkin and her current infrastructure engineering role.
-2. Feature StorageOps Lab as a working observability project, accurately distinguishing simulation and voluntary host monitoring.
+2. Feature StorageOps Lab and LinuxOps Toolkit as distinct public infrastructure projects with accurate measurement scope.
 3. Show public LinguaX, Inventory Portal and Falcon 9 analysis without unverified production claims.
 4. Offer an expandable systems engineering perspective and scientific background.
 5. Direct visitors to the larger portfolio for additional experiments.
@@ -28,7 +28,8 @@ The profile and portfolio use original graphics, with consistent visual language
 ## Assets
 
 * `assets/hero.svg`: name, current identity and infrastructure visualization.
-* `assets/work-storageops.svg`: featured observability project.
+* `assets/work-storageops.svg`: featured storage observability project.
+* `assets/work-linuxops.svg`: Linux observability and diagnostics project, illustrated rather than presented as a live screenshot.
 * `assets/work-linguax.svg`: language application prototype.
 * `assets/work-inventory.svg`: asset administration prototype.
 * `assets/work-falcon.svg`: data science capstone.
@@ -42,6 +43,7 @@ The profile and portfolio use original graphics, with consistent visual language
 * No credential capture tools or private security-awareness repositories in the public project gallery.
 * A project can be showcased without releasing proprietary materials, using a separately designed fictional demonstration with a clean Git history and approved ownership.
 * Do not treat the StorageOps simulator's measurements as production device telemetry.
+* LinuxOps Toolkit collects Linux environment readings and does not claim to measure native Windows hardware from inside WSL.
 * Never use fictional screenshot data as an actual monitoring observation.
 
 ## Validation
